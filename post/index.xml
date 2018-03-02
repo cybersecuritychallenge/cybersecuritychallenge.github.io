@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Cyber Security Challenge Canada</title>
+    <link>http://cybersecuritychallenge.github.io/post/</link>
+    <description>Recent content in Posts on Cyber Security Challenge Canada</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2016 Copyright Text</copyright>
+    <lastBuildDate>Fri, 23 Feb 2018 10:15:11 -0500</lastBuildDate>
+    
+	<atom:link href="http://cybersecuritychallenge.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ottawa</title>
+      <link>http://cybersecuritychallenge.github.io/post/ottawa/</link>
+      <pubDate>Fri, 23 Feb 2018 10:15:11 -0500</pubDate>
+      
+      <guid>http://cybersecuritychallenge.github.io/post/ottawa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Montreal</title>
+      <link>http://cybersecuritychallenge.github.io/post/montreal/</link>
+      <pubDate>Fri, 23 Feb 2018 10:15:03 -0500</pubDate>
+      
+      <guid>http://cybersecuritychallenge.github.io/post/montreal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toronto</title>
+      <link>http://cybersecuritychallenge.github.io/post/toronto/</link>
+      <pubDate>Thu, 22 Feb 2018 19:04:51 -0500</pubDate>
+      
+      <guid>http://cybersecuritychallenge.github.io/post/toronto/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
